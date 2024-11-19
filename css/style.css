@@ -1,0 +1,19 @@
+h1{
+    color: #E53170;
+}
+
+.ms-card{
+    background-color: black;
+    color: white;
+    display: flex;
+    min-height: 50px;
+    width: 30%;
+}
+
+.ms-img{
+    max-width: 100%;
+}
+
+.ms-card p {
+    color: cornflowerblue;
+}
